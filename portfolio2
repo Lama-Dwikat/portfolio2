@@ -208,7 +208,7 @@ footer{
 #foot{
 color:rgba(250, 250, 0, 0.967);
 background-color: rgb(38, 37, 37);
-
+display:inline;
 }
 </style>
 
